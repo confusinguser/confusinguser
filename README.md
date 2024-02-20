@@ -29,6 +29,7 @@ i use arch btw 😎
 * Configuring a plethora of different Linux tools
 * Using Arch Linux and troubleshooting
 * Using VIM (if you could call that a skill)
+* Using Git and Github to pull request, merge, rebase, and some other things
 
 I'm probably missing some really obvious things... I'll let you fill them in
 
