@@ -1,16 +1,48 @@
-### Hi there 👋
+## Welcome to my profile 👋
+I am a soon-to-be CS student who loves to code (when life allows). I'm always looking for new ideas for things to collaborate on, so if you have something in mind, please tell!
 
-<!--
-**confusinguser/confusinguser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Also, if you have any questions you think I may be able to answer, I'd love to help.
 
-Here are some ideas to get you started:
+i use arch btw 😎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I am working on
+[Keyboard LED indicators](https://github.com/confusinguser/keyboard-indicators) – Highly customisable tool to control LED matricies
+
+[A Chess Algorithm](https://github.com/confusinguser/chess-algorithm-development) – A chess bot written in Rust
+
+[Chess on a Cube](https://github.com/confusinguser/chess-on-a-cube) – A chess-inspired game made with Bevy
+
+[Terminal Pixel Renderer](https://github.com/confusinguser/terminal-pixel-renderer) – A (hopefully) soon-to-be rendering Rust crate for command-line interfaces
+## 🧰 Skills
+
+#### Languages: LOTS of experience in
+* Java – Including Maven and Gradle. Have used as my main language for at least three years
+* Rust – Have used as my main language for about two years
+
+#### Langagues: Comfortable with
+* C# – In connection to Unity
+* JS, HTML, CSS – Have had to use on multiple occasions
+* Python – Advanced usage
+
+#### Other
+* Writing shell scripts
+* Configuring a plethora of different Linux tools
+* Using Arch Linux and troubleshooting
+* Using VIM (if you could call that a skill)
+
+I'm probably missing some really obvious things...
+
+## 🧠 Currently learning
+* More Rust!
+* Pull requests and advanced collaboration on Github
+
+## Want to learn
+* Haskell and functional programming
+* Kotlin
+* Golang
+
+![confusinguser's Stats](https://github-readme-stats.vercel.app/api?username=confusinguser&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+## ⚡️ Fun fact
+I love physics. I would have picked an education in it if programming hadn't been so much fun!
+
+Also: I am currently on a hunt for good desktop tools in my everyday life. Everything from desktop environments to browsers to command-line tools. So if you have a good recommendation, I'd love to hear it :)
