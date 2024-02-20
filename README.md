@@ -30,16 +30,7 @@ i use arch btw 😎
 * Using Arch Linux and troubleshooting
 * Using VIM (if you could call that a skill)
 
-I'm probably missing some really obvious things...
-
-## 🧠 Currently learning
-* More Rust!
-* Pull requests and advanced collaboration on Github
-
-## Want to learn
-* Haskell and functional programming
-* Kotlin
-* Golang
+I'm probably missing some really obvious things... I'll let you fill them in
 
 ![confusinguser's Stats](https://github-readme-stats.vercel.app/api?username=confusinguser&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ## ⚡️ Fun fact
